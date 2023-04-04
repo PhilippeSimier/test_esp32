@@ -1,28 +1,29 @@
-# test_esp32
+﻿# test_esp32
 
 ## Description
 Ce dépot est une sauvegarde des exercices proposés en SNIR1 Le Mans
 
 ## Commandes de base
 
-Pour utiliser Git
+*Pour utiliser Git*
 
-git status
+    git status
 
-git init
+    git init
 
-git add * 
+    git add * 
 
-git commit -a -m "un message descriptif"
+    git commit -a -m "un message descriptif"
 
-git push -u origin main
+    git push -u origin main
 
 ### descendre un dépot
 
-git pull
+`enter code here`git pull
 
 ### cloner un dépot qui n'est pas présent sur l"ordinateur local
 
-git clone
+`git clone`
+
 
 
